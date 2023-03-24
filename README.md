@@ -9,6 +9,6 @@ The client is the bank's credit department. The goal is to determine whether the
 
 *This project was completed during the learning process in Yandex.Practicum, in the Data Science Specialist profession.*
 
-| Project Name | Description | Used Libraries |
+| Project Name | Description | Libraries used |
 | :---------------------- | :---------------------- | :---------------------- |
 | [Research on borrower reliability](borrower_reliability_study) | Research on the influence of client's marital status and number of children on the timely loan repayment.| *pandas* |

@@ -1,22 +1,21 @@
 # Research on borrower reliability
-## Данные
-В наличии следующие данные:
-<pre>- children — количество детей в семье
-- days_employed — общий трудовой стаж в днях
-- dob_years — возраст клиента в годах
-- education — уровень образования клиента
-- education_id — идентификатор уровня образования
-- family_status — семейное положение
-- family_status_id — идентификатор семейного положения
-- gender — пол клиента
-- income_type — тип занятости
-- debt — имел ли задолженность по возврату кредитов
-- total_income — ежемесячный доход
-- purpose — цель получения кредита
-</pre>
+## Data
+The following data is available:
+<pre>- children - number of children in the family
+- days_employed - total work experience in days
+- dob_years - client's age in years
+- education - client's education level
+- education_id - identifier of the education level
+- family_status - marital status
+- family_status_id - identifier of the marital status
+- gender - client's gender
+- income_type - type of employment
+- debt - whether the client had any debt on previous credits
+- total_income - monthly income
+- purpose - purpose of getting a loan</pre>
 
-## Задача
+## Task
 Research on the influence of client's marital status and number of children on the timely loan repayment.
 
-## Используемые библиотеки
+## Used libraries
 *pandas*

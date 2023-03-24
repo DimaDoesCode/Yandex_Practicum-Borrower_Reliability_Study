@@ -5,9 +5,9 @@
 *Project Description*
 
 <img src="https://github.com/DimaDoesCode/Yandex_Practicum-Borrower_Reliability_Study/raw/master/client_is_the_banks.png" width="200" height="200" align="left"/>
-The client is the bank's credit department. The goal is to determine whether the client's marital status and number of children affect the likelihood of timely loan repayment. The bank's payment capability statistics will be used as input data for the research. The results of the study will be taken into account when building a credit scoring model - a special system that evaluates the potential borrower's ability to repay the loan to the bank.<br><br>
+The client is the bank's credit department. The goal is to determine whether the client's marital status and number of children affect the likelihood of timely loan repayment. The bank's payment capability statistics will be used as input data for the research. The results of the study will be taken into account when building a credit scoring model - a special system that evaluates the potential borrower's ability to repay the loan to the bank.
 
-*This project was completed during the learning process in Yandex.Practicum, in the Data Science Specialist profession.*
+<br>*This project was completed during the learning process in Yandex.Practicum, in the Data Science Specialist profession.*
 
 | Project Name | Description | Libraries used |
 | :---------------------- | :---------------------- | :---------------------- |

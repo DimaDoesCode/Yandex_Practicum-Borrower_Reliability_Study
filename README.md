@@ -1,16 +1,14 @@
-# Yandex-Practicum <a id='exploratory_data_analysis'></a>
+# Yandex-Practicum <a id='borrower_reliability_study'></a>
 ## Репозиторий курса "Специалист по Data Science"
-### Yandex Practicum / Sprint #5 - Exploratory Data Analysis
+### Yandex Practicum / Sprint #4 - Research on borrower reliability
 
 *Описание проекта*
 
-В распоряжении данные сервиса Яндекс Недвижимость — архив объявлений за несколько лет о продаже квартир в Санкт-Петербурге и соседних населённых пунктах.
-Задача — выполнить предобработку данных и изучить их, чтобы найти интересные особенности и зависимости, которые существуют на рынке недвижимости.
-О каждой квартире в базе содержится два типа данных: добавленные пользователем и картографические. Например, к первому типу относятся площадь квартиры, её этаж и количество балконов, ко второму — расстояния до центра города, аэропорта и ближайшего парка. 
+The client is the bank's credit department. The goal is to determine whether the client's marital status and number of children affect the likelihood of timely loan repayment. The bank's payment capability statistics will be used as input data for the research. The results of the study will be taken into account when building a credit scoring model - a special system that evaluates the potential borrower's ability to repay the loan to the bank. 
 
 
 *Данный проект был выполнен в ходе обучения в Яндекс.Практикуме, профессии "Специалист по Data Science"*
 
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Exploratory Data Analysis](exploratory_data_analysis) | Исследование надежности заемщиков в зависимости от ряда категорий распределения| *pandas* |
+| [Research on borrower reliability](borrower_reliability_study) | Research on the influence of client's marital status and number of children on the timely loan repayment.| *pandas* |

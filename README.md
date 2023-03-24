@@ -11,4 +11,4 @@ The client is the bank's credit department. The goal is to determine whether the
 
 | Project Name | Description | Libraries used |
 | :---------------------- | :---------------------- | :---------------------- |
-| [Research on borrower reliability](borrower_reliability_study) | Research on the influence of client's marital status and number of children on the timely loan repayment.| *pandas* |
+| [Research on borrower reliability](borrower_reliability_study) | Research on the influence of client's marital status and number of children on the timely loan repayment.| *pandas, seaborn, matplotlib.pyplot, numpy, math* |

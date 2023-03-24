@@ -17,5 +17,5 @@ The following data is available:
 ## Task
 Research on the influence of client's marital status and number of children on the timely loan repayment.
 
-## Used libraries
+## Libraries used
 *pandas, seaborn, matplotlib.pyplot, numpy, math*

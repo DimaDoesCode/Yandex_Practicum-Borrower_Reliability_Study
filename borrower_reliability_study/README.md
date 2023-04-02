@@ -17,5 +17,7 @@ The following data is available:
 ## Task
 Research on the influence of client's marital status and number of children on the timely loan repayment.
 
+<a href="https://github.com/DimaDoesCode/Yandex_Practicum-Borrower_Reliability_Study/blob/master/borrower_reliability_study/Borrower_Reliability_Study_Project.ipynb">To view the Jupyter Notebook code of the research, click on this link.</a>
+
 ## Libraries used
 *pandas, seaborn, matplotlib.pyplot, numpy, math*
